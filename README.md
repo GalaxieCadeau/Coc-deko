@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
-  <title>Clash of Clans – Deko Übersicht</title>
+  <title>Clash of Clans – Decorstions Übersicht</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="all Clash of Clans Decorations." />
   <style>
