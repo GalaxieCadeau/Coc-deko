@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <title>Clash of Clans – Deko Übersicht</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Übersicht über Clash of Clans Dekorationen mit Infos, wann und wie man sie bekommen konnte." />
+  <meta name="description" content="all Clash of Clans Decorations." />
   <style>
     * {
       box-sizing: border-box;
