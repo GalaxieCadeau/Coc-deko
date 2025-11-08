@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -425,8 +426,7 @@
       <aside class="intro-card">
         <div class="intro-card-title">Hinweis</div>
         <p>
-          Dies ist ein reines Fan-Projekt. Alle Marken und Inhalte rund um Clash of Clans gehören
-          Supercell. Bitte nutze nur eigene Bilder/Screenshots oder neutrale Platzhalter.
+          
         </p>
         <div class="pill-row">
           <span class="pill">Kein offizielles Tool</span>
