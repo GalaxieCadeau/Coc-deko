@@ -529,7 +529,7 @@
         data-rarity="legendary">
         <div class="deko-media">
           <span class="deko-tag">Spezial</span>
-<imgsrc="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251108_195947_Clash.jpg" alt="Neujahr Laterne" style="display:block; margin:20px auto; width:200px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);"/>
+<img src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251108_195947_Clash%20of%20Clans.jpg" alt="Neujahr Laterne" style="display:block; margin:20px auto; width:200px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);" />
         </div>
         <div class="deko-body">
           <h2 class="deko-titlye">Neujahrs-Laterne</h2>
