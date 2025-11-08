@@ -419,7 +419,7 @@
         <h1>Clash of Clans</h1>
         <p>
          see all Clash of Clans Decorations 
-          <strong>wann</strong> <strong>wie</strong> 
+          <strong></strong> <strong></strong> 
           
         </p>
       </div>
