@@ -513,7 +513,7 @@
   src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251108_213125_Google.jpg"
   alt="Grabstein Dekoration"
   style="display:block; margin:20px auto; width:220px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);"
-/>" alt="Halloween Grabstein">
+
         </div>
         <div class="deko-body">
           <h2 class="deko-title">Halloween-Grabstein</h2>
