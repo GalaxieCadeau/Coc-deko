@@ -569,8 +569,8 @@
     </section>
 
     <footer>
-      Fan-Projekt von dir. Clash of Clans und alle zugehörigen Inhalte sind Marken von Supercell.
-      Dies ist keine offizielle Seite. Nutze bitte nur eigene Screenshots oder neutrale Grafiken.
+      Fan-Projekt von Galaxy. Clash of Clans und alle zugehörigen Inhalte sind Marken von Supercell.
+      Dies ist keine offizielle Seite.
     </footer>
   </main>
 
