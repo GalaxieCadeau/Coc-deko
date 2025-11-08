@@ -530,7 +530,7 @@
         <div class="deko-media">
           <span class="deko-tag">Spezial</span>
           <img src="<img 
-  src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/laterne.jpg" 
+  <img src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/laterne.jpg" 
   alt="Neujahr Laterne"
   style="display:block; margin:20px auto; width:200px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);"
 />
