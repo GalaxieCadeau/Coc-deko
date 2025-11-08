@@ -430,7 +430,7 @@
         <div class="pill-row">
           <span class="pill"> </span>
           <span class="pill"></span>
-          <span class="pill">Eigene </span>
+          <span class="pill"> </span>
         </div>
       </aside>
     </section>
