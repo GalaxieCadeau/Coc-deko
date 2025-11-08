@@ -529,7 +529,7 @@
         data-rarity="legendary">
         <div class="deko-media">
           <span class="deko-tag">Spezial</span>
-          <img src="images/platzhalter-laterne.png" alt="Neujahr Laterne">
+          <img src="https://raw.githubusercontent.com/GalaxieCadeau/Cocdeko/main/laterne.jpg" alt="Neujahr Laterne">
         </div>
         <div class="deko-body">
           <h2 class="deko-title">Neujahrs-Laterne</h2>
