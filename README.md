@@ -404,7 +404,7 @@
         <div class="brand-icon">D</div>
         <div class="brand-text">
           <div class="brand-title">CoC Dekos</div>
-          <div class="brand-sub">Inoffizielles Deko-Archiv</div>
+          <div class="brand-sub"> Deko-Archiv</div>
         </div>
       </a>
       <div class="nav-tag">
@@ -416,9 +416,9 @@
   <main class="page" id="top">
     <section class="intro">
       <div>
-        <h1>Clash of Clans</h1>
+        <h1>see all Clash of Clans Decorations</h1>
         <p>
-         see all Clash of Clans Decorations 
+          
           <strong></strong> <strong></strong> 
           
         </p>
@@ -429,9 +429,9 @@
           
         </p>
         <div class="pill-row">
-          <span class="pill">Kein offizielles Tool</span>
-          <span class="pill">Nur Info-Zwecke</span>
-          <span class="pill">Eigene Screenshots empfohlen</span>
+          <span class="pill"> </span>
+          <span class="pill"></span>
+          <span class="pill">Eigene </span>
         </div>
       </aside>
     </section>
