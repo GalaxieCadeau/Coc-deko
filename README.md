@@ -508,10 +508,7 @@
         data-rarity="epic">
         <div class="deko-media">
           <span class="deko-tag">Halloween</span>
-          <img src="<span class="deko-tag">Spezial</span>
-<img> src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251108_213125_Google.jpg"
-  alt="Grabstein Dekoration"
-  style="display:block; margin:20px auto; width:220px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);" />
+          <img src="<span class="deko-tag">Spezial</span><img src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251108_213125_Google.jpg" alt="Grabstein Dekoration" style="display:block; margin:20px auto; width:220px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);" />
         </div>
         <div class="deko-body">
           <h2 class="deko-title">Halloween-Grabstein</h2>
@@ -531,15 +528,10 @@
         data-year="2020"
         data-rarity="legendary">
         <div class="deko-media">
-          <span class="deko-tag">Spezial</span>
- 
-  <img src="Screenshot_20251108_195947_Clash.jpg" 
-  alt="Neujahr Laterne"
-  style="display:block; margin:20px auto; width:200px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);"
-/>
+          <span class="deko-tag">Spezial</span>     <img src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251108_195947_Clash.jpg" alt="Neujahr Laterne" style="display:block; margin:20px auto; width:200px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);"/>
         </div>
         <div class="deko-body">
-          <h2 class="deko-title">Neujahrs-Laterne</h2>
+          <h2 class="deko-titlye">Neujahrs-Laterne</h2>
           <div class="deko-meta-row">
             <span class="deko-meta-chip">Jahr: 2020</span>
             <span class="deko-meta-chip">Event: Lunar New Year</span>
