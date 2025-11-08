@@ -408,7 +408,7 @@
         </div>
       </a>
       <div class="nav-tag">
-        Fan-Projekt · Eigene Screenshots
+        
       </div>
     </div>
   </header>
@@ -416,11 +416,11 @@
   <main class="page" id="top">
     <section class="intro">
       <div>
-        <h1>Clash of Clans Dekorationen nachschlagen</h1>
+        <h1>Clash of Clans</h1>
         <p>
-          Hier kannst du Clash of Clans Dekorationen durchstöbern und sehen,
-          <strong>wann</strong> und <strong>wie</strong> man sie im Spiel bekommen konnte.
-          Die Bilder solltest du über eigene Screenshots ersetzen – keine originalen Supercell-Grafiken direkt einbinden.
+         see all Clash of Clans Decorations 
+          <strong>wann</strong> <strong>wie</strong> 
+          
         </p>
       </div>
       <aside class="intro-card">
