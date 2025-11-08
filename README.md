@@ -508,6 +508,7 @@
         data-rarity="epic">
         <div class="deko-media">
   <span class="deko-tag">Halloween</span>
+  
   <span class="deko-tag">Spezial</span>
   <img src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251108_213125_Google.jpg"
     alt="Halloween Grabstein"
