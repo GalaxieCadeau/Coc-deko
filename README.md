@@ -507,7 +507,7 @@
         data-year="2016"
         data-rarity="epic">
         <div class="deko-media">
-  <span class="deko-tag">Halloween</span> <span class="deko-tag">Spezial</span>
+  <span class="deko-tag">Halloween</span>
   <img src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251108_213125_Google.jpg"
     alt="Halloween Grabstein"
     style="display:block; margin:20px auto; width:220px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);"/>
