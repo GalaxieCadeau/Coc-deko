@@ -446,6 +446,7 @@
           <label for="year-filter">Jahr</label>
           <select id="year-filter">
             <option value="">Alle Jahre</option>
+            <option>2013</option>
             <option>2014</option>
             <option>2015</option>
             <option>2016</option>
