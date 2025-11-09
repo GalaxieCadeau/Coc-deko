@@ -446,6 +446,7 @@
           <label for="year-filter">Jahr</label>
           <select id="year-filter">
             <option value="">Alle Jahre</option>
+            <option>2012</option>
             <option>2013</option>
             <option>2014</option>
             <option>2015</option>
@@ -472,10 +473,9 @@
         </div>
       </div>
     </section>
-
     <div class="grid-meta">
       <span>Gefundene Dekos: <strong id="count">0</strong></span>
-      <span>Tipp: Tippe auf eine Karte und notiere dir, ob du die Deko besitzt.</span>
+      .</span>
     </div>
 
     <section class="deko-grid" id="deko-grid">
