@@ -617,17 +617,17 @@
 </body>
 </html>
 <article class="deko-card"
-  data-name="Weihnachtsbaum 2012"
+  data-name="Weihnachtsbaum2012"
   data-year="2012"
   data-rarity="epic">
   <div class="deko-media">
     <span class="deko-tag">Weihnachten</span> <span class="deko-tag"></span>
     <img src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251109_110735_Google.jpg"
-      alt="Weihnachtsbaum 2012"
+      alt="Weihnachtsbaum2012"
       style="display:block; margin:20px auto; width:220px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);" />
   </div>
   <div class="deko-body">
-    <h2 class="deko-title">Weihnachtsbauo2</h2>
+    <h2 class="deko-title">Weihnachtsbaum 2012</h2>
     <div class="deko-meta-row">
       <span class="deko-meta-chip">Jahr: 2016</span>
       <span class="deko-meta-chip">Event: Weihnachten 2012 </span>
