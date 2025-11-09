@@ -629,7 +629,7 @@
   <div class="deko-body">
     <h2 class="deko-title">Weihnachtsbaum 2012</h2>
     <div class="deko-meta-row">
-      <span class="deko-meta-chip">Jahr: 2016</span>
+      <span class="deko-meta-chip">Jahr: 2012</span>
       <span class="deko-meta-chip">Event: Weihnachten 2012 </span>
       <span class="deko-meta-chip rarity-epic">Episch</span>
     </div>
