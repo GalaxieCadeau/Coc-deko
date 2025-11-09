@@ -622,7 +622,7 @@
   data-rarity="epic">
   <div class="deko-media">
     <span class="deko-tag">Weihnachten</span> <span class="deko-tag"></span>
-    <img src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251108_213125_Google.jpg"
+    <img src="https://raw.githubusercontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251109_110735_Google.jpg"
       alt="Weihnachtsbaum 2012"
       style="display:block; margin:20px auto; width:220px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);" />
   </div>
