@@ -402,7 +402,7 @@
       <a class="brand" href="#top">
         <div class="brand-icon">D</div>
         <div class="brand-text">
-          <div class="brand-title">CoC Dekos</div>
+          <div class="brand-title"></div>
           <div class="brand-sub"> Deko-Archiv</div>
         </div>
       </a>
@@ -415,7 +415,7 @@
   <main class="page" id="top">
     <section class="intro">
       <div>
-        <h1>see all Clash of Clans Decorations</h1>
+        <h1> all Clash of Clans Decorations</h1>
         <p>
           
           <strong></strong> <strong></strong> 
