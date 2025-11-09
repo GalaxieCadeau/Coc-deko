@@ -567,6 +567,28 @@
           </p>
         </div>
       </article>
+<article class="deko-card"
+  data-name="Weihnachtsbaum2012"
+  data-year="2012"
+  data-rarity="epic">
+  <div class="deko-media">
+    <span class="deko-tag">Weihnachten</span> <span class="deko-tag"></span>
+    <img src="https://raw.githubuserontent.com/GalaxieCadeau/Coc-deko/main/Screenshot_20251109_110735_Google.jpg"
+      alt="Weihnachtsbaum2012"
+      style="display:block; margin:20px auto; width:220px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);" />
+  </div>
+  <div class="deko-body">
+    <h2 class="deko-title">Weihnachtsbaum 2012</h2>
+    <div class="deko-meta-row">
+      <span class="deko-meta-chip">Jahr: 2012</span>
+      <span class="deko-meta-chip">Event: Weihnachten 2012 </span>
+      <span class="deko-meta-chip rarity-epic">Episch</span>
+    </div>
+    <p class="deko-desc">
+      Weihnachtsbaum der 2012 im dorf aufgetauch ist.
+    </p>
+  </div>
+</article>
 
       <!-- ENDE BEISPIELE -->
     </section>
